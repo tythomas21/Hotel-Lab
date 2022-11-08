@@ -48,7 +48,7 @@ $(document).ready(function () {
                     detailing the location of our next meeting! We hope to see you soon, and we can't wait to introduce you to some of our pups. Please note that there will also be an opportunity to make a one time donation 
                     at each of our meetings (should you feel so inclined).
                     Thanks again,</p>
-                    <p class="text-end mt-3">---P&P</p>
+                    <p class="text-end mt-3"></p>
                   </div>
                 </div>
               </div`
